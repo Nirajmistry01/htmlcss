@@ -1,0 +1,376 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box
+}
+
+/* sec-1 page */
+.container {
+    width: 1300px;
+    margin: 0 auto;
+}
+
+.row {
+    display: flex;
+}
+
+.ali {
+    text-align: center;
+}
+
+.jcs {
+    justify-content: space-between;
+}
+
+.one-head {
+    padding: 50px 0;
+}
+
+ul li {
+    display: inline-block;
+    margin: 0 90px 0 0;
+}
+
+.links a {
+    text-decoration: none;
+    font-size: 21px;
+    letter-spacing: -2px;
+    color: #474545;
+    font-family: sans-serif;
+}
+
+.home {
+    color: #000000;
+}
+
+.Contact {
+    text-align: center;
+}
+
+.Contact button {
+    padding: 10px 40px;
+    font-size: 15px;
+    font-weight: bold;
+    border: solid 2px;
+}
+
+div h1 {
+    font-size: 110px;
+    letter-spacing: -2px;
+    line-height: 81px;
+    color: #232323;
+    font-weight: 700;
+    font-family: "Cardo";
+}
+
+div p {
+    width: 450px;
+    font-size: 17px;
+    letter-spacing: 0px;
+    color: #232323;
+    font-weight: 400;
+    font-family: "Lato";
+    text-align: left;
+    margin: 40px 0 40px 0;
+}
+
+.Reserve button {
+    color: #ffffff;
+    background-color: rgb(0, 0, 0);
+    padding: 10px 40px;
+    font-size: 15px;
+    font-weight: bold;
+    border: solid 2px;
+    margin: 0 0 100px 0;
+}
+
+/* sec-2 page */
+.part-two {
+    background-color: #000000;
+}
+
+div h2 {
+    font-size: 55px;
+    letter-spacing: -1px;
+    line-height: 55px;
+    color: #e9e7e7;
+    font-weight: 700;
+    font-family: "Cardo";
+    text-align: center;
+    margin: 60px;
+    padding: 60px 0 0 0;
+}
+
+.two p {
+    text-align: center;
+    color: white;
+    margin: 30px auto;
+}
+
+.Travel {
+    text-align: center;
+}
+
+.Travel button {
+    color: #ffffff;
+    background-color: rgb(0, 0, 0);
+    padding: 10px 40px;
+    font-size: 15px;
+    font-weight: bold;
+    border: solid 2px;
+    margin: 0 0 70px 0;
+}
+
+/* sec-3 */
+.card {
+    margin: 100px 0;
+    padding: 50px 0;
+}
+
+h3 {
+    font-size: 36px;
+    letter-spacing: -1px;
+    line-height: 36px;
+    color: #232323;
+    font-weight: 700;
+    font-family: "Cardo";
+    width: 300px;
+}
+
+.p3 {
+    width: 370px;
+}
+
+/* sec-4 */
+.main-four {
+    text-align: center;
+    padding: 100px 0 0 0;
+}
+
+.sec-4-img {
+    padding: 100px 0 0 0;
+}
+
+.main-text-4 {
+    font-size: 98px;
+    letter-spacing: -2px;
+    line-height: 98px;
+    color: #232323;
+    width: 900px;
+    font-family: "Cardo";
+    margin: 0 auto;
+}
+
+.p4 p {
+    width: 100%;
+    height: 61px;
+    font-size: 25px;
+    letter-spacing: -1px;
+    color: #232323;
+    font-weight: 900;
+    font-family: "Lato";
+    text-align: center;
+    padding: 30px 0 100px 0;
+}
+
+
+/* sec-5 */
+.main-five {
+    padding: 100px 0;
+}
+
+.col-51 {
+    padding-top: 100px;
+}
+
+.col-50 {
+    margin: 0 80px;
+    padding-top: 100px;
+}
+
+.h2-five {
+    font-size: 36px;
+    color: #232323;
+    width: 250px;
+    font-family: "Cardo";
+}
+
+.text-five-p {
+    padding: 100px 0 0 0;
+}
+
+/* sec-6 */
+.sec-six {
+    width: 1440px;
+    margin: 0 auto;
+    background-color: #232323;
+    padding: 0 0 100px 0;
+}
+
+.h2-six {
+    font-size: 55px;
+    color: #e9e7e7;
+    width: 410px;
+    font-family: "Cardo";
+}
+
+h4 {
+    font-size: 25px;
+    letter-spacing: -1px;
+    color: #e9e7e7;
+    font-weight: 900;
+    font-family: "Lato";
+}
+
+.text-six {
+    font-size: 17px;
+    letter-spacing: 0px;
+    color: #e9e7e7;
+    font-weight: 400;
+    font-family: "Lato";
+    text-align: left;
+}
+
+/* sec-7 */
+.sec-seven{
+    margin: 100px 0;
+    padding: 70px 0;
+}
+.h2-seven {
+    margin: 0 auto;
+    font-size: 81px;
+    color: #232323;
+    letter-spacing: -2px;
+    line-height: 81px;
+    width: 700px;
+    font-family: "Cardo";
+}
+
+.text-7 {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    border-top: 3px solid #232323;
+    font-size: 17px;
+    color: #232323;
+    font-family: "Lato";
+    text-align: left;
+    padding: 20px;
+}
+/* sec-8 */
+.sec-eight{
+    margin: 100px 0;
+}
+.text-8 p{
+    font-size: 98px;
+    letter-spacing: -2px;
+    line-height: 98px;
+    color: #232323;
+    width: 700px;
+    font-weight: 700;
+    font-family: "Cardo";
+    text-align: center;
+    margin: 0 auto;
+}
+.col-1{
+    border: solid 3px #000000;
+    border-radius: 10px;
+    width: 32%;
+    margin: 80px 0;
+}
+.col-1 img{
+    margin: 40px;
+}
+.col-1 h3{
+    width: 400px;
+}
+.col-1 p{
+    width: 350px;
+    padding: 0 0 0 60px;
+    text-align: center;
+}
+/* sec-9 */
+h5{
+    width: 400px;
+    font-size: 81px;
+    letter-spacing: -2px;
+    line-height: 81px;
+    color: #232323;
+    font-weight: 700;
+    font-family: "Cardo";
+    margin: 40px;
+}
+.form input{
+    width: 400px;
+    border: solid 3px black;
+    border-radius: 10px;
+}
+#Name{
+    font-size: 21px;
+    line-height: 17px;
+    color: #232323;
+    font-weight: 400;
+    font-family: "Lato";
+    padding: 6px 10px;
+    margin: 20px;
+}
+#Write{
+    font-size: 21px;
+    line-height: 17px;
+    color: #232323;
+    font-weight: 400;
+    font-family: "Lato";
+    padding: 6px 10px 100px 0;
+    margin: 20px;
+}
+.button{
+    font-size: 25px;
+    line-height: 17px;
+    color: #e9e7e7;
+    background-color: #232323;
+    font-weight: 400;
+    border: solid 3px black;
+    border-radius: 10px;
+    font-family: "Lato";
+    text-align: center;
+    padding: 10px 130px;
+    margin: 30px 20px;
+}
+.col-100{
+    margin: 100px 0;
+}
+/* sec-10 */
+.sec-ten{
+    background-color: #c4c4c4;
+}
+.h6{
+    font-size: 63px;
+    letter-spacing: -2px;
+    line-height: 63px;
+    color: #232323;
+    font-weight: 700;
+    font-family: "Cardo";
+    margin: 40px 0;
+}
+.text-10{
+    width: 20%;
+    margin: 40px  0;
+}
+.text-10 div p{
+    width: 190px;
+    font-size: 21px;
+    letter-spacing: -1px;
+    line-height: 40px;
+    color: #232323;
+    font-weight: 400;
+    font-family: "Lato";
+    text-align: left;
+    margin: 0 20px;
+}
+.tex-end{
+    padding: 50px;
+}
+.tex-end p{
+    text-align: center;
+    margin: 0 auto;
+}
